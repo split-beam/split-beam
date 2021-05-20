@@ -2,7 +2,7 @@
 - 👀 I’m interested in Game Development
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on Game Jams & Small Indie Projects
-- 📫 How to reach me ...
+- 📫 splitbeamstudio@gmail.com
 
 <!---
 split-beam/split-beam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
