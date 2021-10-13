@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @split-beam
 - 👀 I’m interested in Game Development
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning C# & Py
 - 💞️ I’m looking to collaborate on Game Jams & Small Indie Projects
 - 📫 splitbeamstudio@gmail.com
 
